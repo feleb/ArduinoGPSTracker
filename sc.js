@@ -5,7 +5,7 @@ var LatLngArray = new google.maps.MVCArray();
 var map;
 var poly;
 var reader;
-var apiKey = 'ur_rd_k';
+var apiKey = 'AIzaSyAP1BqU-JXieGtYVvl4BrF3ttOVEQzirnQ';
 var placeIdArray = [];
 var snappedCoordinates = [];
 var bounds = new google.maps.LatLngBounds();
